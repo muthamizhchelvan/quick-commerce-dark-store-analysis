@@ -1,0 +1,4 @@
+platform_name,total_orders,total_revenue_inr,delayed_orders_count,delayed_order_pct
+Blinkit,40695,17444570,7205,17.70
+"Swiggy Instamart",33449,13887523,5367,16.05
+JioMart,25856,11663443,11226,43.42
