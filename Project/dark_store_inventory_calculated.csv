@@ -1,0 +1,7 @@
+category_name,current_stock_on_hand,calculated_safety_stock,reorder_point
+"Fruits & Vegetables",782,2120,4076
+"Dairy ",794,2128,4112
+Beverages,778,2106,4052
+"Personal Care",778,2090,4036
+Grocery,788,2278,4248
+Snacks,786,2202,4168

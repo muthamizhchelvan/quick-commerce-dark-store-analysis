@@ -1,0 +1,7 @@
+category_name,current_stock_on_hand,avg_daily_orders,max_daily_orders,avg_lead_time_days,max_lead_time_days,calculated_safety_stock,reorder_point,stock_status
+"Fruits & Vegetables",800,978,1019,2,4,2120,4076,"CRITICAL: IMMEDIATE REPLENISHMENT"
+Dairy,1500,992,1028,2,4,2128,4112,"WARNING: BELOW SAFETY STOCK"
+Snacks,1800,983,1042,2,4,2202,4168,"WARNING: BELOW SAFETY STOCK"
+Beverages,3000,973,1013,2,4,2106,4052,"ACTION REQUIRED: REORDER POINT REACHED"
+Grocery,5000,985,1062,2,4,2278,4248,"HEALTHY STOCK LEVEL"
+"Personal Care",5000,973,1009,2,4,2090,4036,"HEALTHY STOCK LEVEL"
